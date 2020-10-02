@@ -1,2 +1,2 @@
-# 1st-Library
-Two basic functions in a library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
